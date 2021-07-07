@@ -1,0 +1,33 @@
+a {
+    &:hover {
+        transition: 0.2s ease-in color;
+        color: #0dcaf0 !important;
+    }
+}
+
+.card-wrapper {
+
+    position:relative;
+
+    .title-card {
+        font-size: 18px;
+        font-weight: 400;
+    }
+}
+
+.gradient-placeholder {
+    width: 100%;
+    background-color: cyan;
+    background-image: linear-gradient(to right, cyan, grey);
+    height: 250px;
+}
+.gradient-placeholder-sm {
+    width: 100%;
+    background-color: cyan;
+    background-image: linear-gradient(to right, cyan, grey);
+    height: 100px;
+}
+
+.footer {
+    min-height: 250px;
+}
