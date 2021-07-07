@@ -1,4 +1,4 @@
-# Front end of the CRM
+# Front end of the CRM - Using Angular
 
 Basic barebones version for now, building all pages before starting on API building.
 
